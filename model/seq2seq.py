@@ -1,4 +1,4 @@
-import torch
+import torch ## expression operrator
 from model.encoder import EncoderRNN
 from model.decoder import AttnDecoderRNN
 
